@@ -1,6 +1,6 @@
-# Items.json Updater
+# Growtopia Items Updater 
 
-> Growtopia Items Updater 
+> Items Json Updater
 
 - Support update items JSON version without bugs
 - Support copy items JSON to another file without duplicate entries
